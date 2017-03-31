@@ -1,0 +1,10 @@
+body{
+    padding-top: 100px;
+    padding-right: 30px;
+    padding-bottom: 250px;
+    padding-left: 240px;
+}
+.form-actions {
+    margin: 0;
+    text-align: center;
+}
